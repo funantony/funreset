@@ -1,6 +1,6 @@
-flask
+flask==2.2.2
 pyngrok
-flask-socketio
+flask-socketio==5.2.0
 Werkzeug==2.2.2
 transformers==4.37.2
 bitsandbytes==0.41.3 
